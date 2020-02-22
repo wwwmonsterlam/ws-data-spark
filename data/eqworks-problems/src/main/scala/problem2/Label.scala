@@ -20,8 +20,7 @@ import org.apache.spark.sql.{DataFrame, Row, SparkSession}
 object Label {
   def solution(spark: SparkSession, dataSampleDf: DataFrame, poiDf: DataFrame): DataFrame = {
 
-//    val LABELED_DATA_PATH: String = "C:\\Users\\wuwei\\Desktop\\IdeaProjects\\eqworks-problems\\data\\DataSampleLabeled"
-    val TAR_PATH: String = this.getClass.getProtectionDomain.getCodeSource.getLocation.getPath
+    val TAR_PATH: String = this.getClass.getProtectionDomain.getCodeSource.getLocation.getPath + "/.."
     val LABELED_DATA_PATH: String = TAR_PATH + "/DataSampleLabeled"
 
     println("******************** Problem 2. Label begins ********************")
@@ -69,12 +68,12 @@ object Label {
   // For simplification, the earth is regarded as a sphere with a radius of 6378138 meters.
   private def getDistance(coordinate1: (Double, Double), coordinate2: (Double, Double)): Double = {
     import math._
-    val radianLat1 = coordinate1._1*Pi/180
-    val radianLng1 = coordinate1._2*Pi/180
-    val radianLat2 = coordinate2._1*Pi/180
-    val radianLng2 = coordinate2._2*Pi/180
-    val tmpA = pow(sin((radianLat1 - radianLat2)/2), 2)
-    val tmpB = cos(radianLat1)*cos(radianLat2)*pow(sin((radianLng1 - radianLng2)/2), 2)
+    val radianLat1: Double = coordinate1._1*Pi/180
+    val radianLng1: Double = coordinate1._2*Pi/180
+    val radianLat2: Double = coordinate2._1*Pi/180
+    val radianLng2: Double = coordinate2._2*Pi/180
+    val tmpA: Double = pow(sin((radianLat1 - radianLat2)/2), 2)
+    val tmpB: Double = cos(radianLat1)*cos(radianLat2)*pow(sin((radianLng1 - radianLng2)/2), 2)
     6378138*2*asin(sqrt(tmpA + tmpB))
   }
 }

@@ -2,45 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca5b0a9e-5565-4dbf-92bd-341c8765a0b3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../POIList.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../POIList.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/EqworksProblems$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/EqworksProblems.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/META-INF/eqworks-problems.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem1/Cleanup$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem1/Cleanup.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem2/Label$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem2/Label$$anonfun$2$$anonfun$apply$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem2/Label$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem2/Label$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem2/Label$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem2/Label.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem3/Analysis$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem3/Analysis.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$$anonfun$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$$anonfun$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$$anonfun$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$$anonfun$constructGraph$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$$anonfun$constructGraph$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$$anonfun$getRelations$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$$anonfun$getRelations$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$$anonfun$getStartingTasks$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$$anonfun$getStartingTasks$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$$anonfun$getStartingTasks$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$$anonfun$getStartingTasks$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$$anonfun$getStartingTasks$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$$anonfun$getTasks$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$$anonfun$getTasks$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$$anonfun$problem4b$PipelineDependency$$connectInArcs$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$$anonfun$problem4b$PipelineDependency$$connectOutArcs$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$$anonfun$removeFinishedTasks$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$$anonfun$solution$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$Arc$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$Arc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$Node$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/problem4b/PipelineDependency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/EqworksProblems.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/EqworksProblems.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/problem1/Cleanup.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/problem1/Cleanup.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/problem2/Label.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/problem2/Label.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/problem3/Analysis.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/problem3/Analysis.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/problem4b/PipelineDependency.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/problem4b/PipelineDependency.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +82,6 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3164314132745" />
         <entry key="$PROJECT_DIR$/build.sbt" value="3002005806" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
       </map>
@@ -122,7 +89,6 @@
     <option name="projectSyncType">
       <map>
         <entry key="$PROJECT_DIR$/../../../../IdeaProjects/recommendation-system" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
       </map>
     </option>
   </component>

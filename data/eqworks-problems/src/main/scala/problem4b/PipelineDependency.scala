@@ -22,11 +22,7 @@ import scala.collection.{JavaConverters, mutable}
 
 object PipelineDependency {
 
-//  val QUESTION_PATH: String = "C:\\Users\\wuwei\\Desktop\\IdeaProjects\\eqworks-problems\\data\\question.txt"
-//  val RELATIONS_PATH: String = "C:\\Users\\wuwei\\Desktop\\IdeaProjects\\eqworks-problems\\data\\relations.txt"
-//  val TASKS_PATH: String = "C:\\Users\\wuwei\\Desktop\\IdeaProjects\\eqworks-problems\\data\\task_ids.txt"
-//  val SCHEDULE_PATH: String = "C:\\Users\\wuwei\\Desktop\\IdeaProjects\\eqworks-problems\\data\\schedule"
-  val TAR_PATH: String = this.getClass.getProtectionDomain.getCodeSource.getLocation.getPath
+  val TAR_PATH: String = this.getClass.getProtectionDomain.getCodeSource.getLocation.getPath + "/.."
   val QUESTION_PATH: String = TAR_PATH + "/question.txt"
   val RELATIONS_PATH: String = TAR_PATH + "/relations.txt"
   val TASKS_PATH: String = TAR_PATH + "/task_ids.txt"
