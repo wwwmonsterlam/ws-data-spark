@@ -1,13 +1,13 @@
 ## Description
 
 This is a project based on the data and problems in the following repositories:
-https://github.com/EQWorks/ws-data-spark
-https://gist.github.com/woozyking/f1d50e1fe1b3bf52e3748bc280cf941f
+* https://github.com/EQWorks/ws-data-spark
+* https://gist.github.com/woozyking/f1d50e1fe1b3bf52e3748bc280cf941f
 
 ## Versions of Tools
 
-SBT version: 1.3.8
-Spark: 2.4.1
+SBT version: 1.3.8|
+Spark: 2.4.1|
 Scala: 2.11.12
 
 ## Introduction to the files
@@ -42,22 +42,22 @@ Although this project has already been built, you can follow the following steps
 ## Short comment on `Problem 2. Label`
 
   Introduction:
-    Algorithm: brute force
-    Time complexity: Θ(M*N), where M is the amount of POIs and N is the number of requests
+    * Algorithm: brute force
+    * Time complexity: Θ(M*N), where M is the amount of POIs and N is the number of requests
 
   Possible future improvement(It's not implemented due to limited time):
-    Data structure: K-D tree
-    Algorithm: nearest neighbour search
-    Time complexity: O(M\*N) for the worst case, O(M\*lgN) for the average
+    * Data structure: K-D tree
+    * Algorithm: nearest neighbour search
+    * Time complexity: O(M\*N) for the worst case, O(M\*lgN) for the average
 
 ## Short comment on `4b. Pipeline Dependency`
 
   Introduction:
-    Data structure: doubly-linked orthogonal list
-    Algorithm: depth first search (DFS)
-    Time complexity: O(M), where M is the number of arcs in the DAG, i.e. the number of dependencies
-    Space complexity: O(M)
+    * Data structure: doubly-linked orthogonal list
+    * Algorithm: depth first search (DFS)
+    * Time complexity: O(M), where M is the number of arcs in the DAG, i.e. the number of dependencies
+    * Space complexity: O(M)
 
-    Why orthogonal list?
-      If adjacency list is used to represent the DAG, the time complexity would be O(M*S), where M is
+  Why orthogonal list?
+    * If adjacency list is used to represent the DAG, the time complexity would be O(M*S), where M is
       the number of arcs in the DAG and S is the number of starting tasks.
