@@ -20,7 +20,9 @@ import org.apache.spark.sql.{DataFrame, Row, SparkSession}
 object Label {
   def solution(spark: SparkSession, dataSampleDf: DataFrame, poiDf: DataFrame): DataFrame = {
 
-    val LABELED_DATA_PATH: String = "C:\\Users\\wuwei\\Desktop\\IdeaProjects\\eqworks-problems\\data\\DataSampleLabeled"
+//    val LABELED_DATA_PATH: String = "C:\\Users\\wuwei\\Desktop\\IdeaProjects\\eqworks-problems\\data\\DataSampleLabeled"
+    val TAR_PATH: String = this.getClass.getProtectionDomain.getCodeSource.getLocation.getPath
+    val LABELED_DATA_PATH: String = TAR_PATH + "/DataSampleLabeled"
 
     println("******************** Problem 2. Label begins ********************")
 

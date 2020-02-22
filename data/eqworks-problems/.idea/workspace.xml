@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="988bc4b1-363b-4d71-9298-44ad7ba1a00e" name="Default Changelist" comment="" />
+    <list default="true" id="ca5b0a9e-5565-4dbf-92bd-341c8765a0b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/eqworks-problems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/eqworks-problems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7b01655a5b6f4a5a40e5$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7b01655a5b6f4a5a40e5.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7b01655a5b6f4a5a40e5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$81d770eff5d50ee7ca28$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$81d770eff5d50ee7ca28.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$81d770eff5d50ee7ca28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3f2a36e2a7fa296314c$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3f2a36e2a7fa296314c.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3f2a36e2a7fa296314c.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f22bd3b313c2f9788446$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f22bd3b313c2f9788446.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f22bd3b313c2f9788446.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f3ec4db145406fc65226$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f3ec4db145406fc65226.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f3ec4db145406fc65226.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f5908256181b9916fdab$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f5908256181b9916fdab.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f5908256181b9916fdab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/EqworksProblems.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/EqworksProblems.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/problem1/Cleanup.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/problem1/Cleanup.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/problem2/Label.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/problem2/Label.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/problem3/Analysis.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/problem3/Analysis.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/problem4b/PipelineDependency.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/problem4b/PipelineDependency.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/update/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/update/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.11/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.11/output" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,17 +54,26 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Scala Object" />
-      </list>
-    </option>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1XuuH6HDyRe26WVxCqz4N108Gt1" />
+  <component name="ProjectId" id="1YAude6TsmJfzr5vmzEPOnUUz3Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,33 +81,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.EqworksProblems">
-    <configuration name="ALSModeling" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="ALSModeling" />
-      <module name="eqworks-problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EqworksProblems" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="EqworksProblems" />
-      <module name="eqworks-problems" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.EqworksProblems" />
-        <item itemvalue="Application.ALSModeling" />
-      </list>
-    </recent_temporary>
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="SbtLocalSettings">
     <option name="availableProjects">
@@ -74,7 +96,7 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="eqworks-problems [file:/C:/Users/wuwei/Desktop/IdeaProjects/eqworks-problems/]" />
+                <option name="name" value="eqworks-problems [file:/C:/Users/wuwei/Desktop/eqworkProject/ws-data-spark/data/eqworks-problems/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -88,14 +110,13 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="3163817066464" />
         <entry key="$PROJECT_DIR$/build.sbt" value="2309439695" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
       </map>
     </option>
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/../recommendation-system" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../IdeaProjects/recommendation-system" value="PREVIEW" />
       </map>
     </option>
   </component>
@@ -104,46 +125,22 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="988bc4b1-363b-4d71-9298-44ad7ba1a00e" name="Default Changelist" comment="" />
-      <created>1581908209141</created>
+      <changelist id="ca5b0a9e-5565-4dbf-92bd-341c8765a0b3" name="Default Changelist" comment="" />
+      <created>1582397808567</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1581908209141</updated>
+      <updated>1582397808567</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="690" y="279" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582336220106">
+    <state x="690" y="279" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582398851808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="279" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582336220106" />
-    <state x="690" y="305" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582336187671">
+    <state x="690" y="279" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582398851808" />
+    <state x="758" y="396" key="NewModule_or_Project.wizard" timestamp="1582397821291">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="305" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582336187671" />
-    <state x="761" y="390" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582336191836">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="761" y="390" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582336191836" />
-    <state width="1877" height="150" key="GridCell.Tab.0.bottom" timestamp="1582393868902">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="150" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582393868902" />
-    <state width="1877" height="150" key="GridCell.Tab.0.center" timestamp="1582393868901">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="150" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582393868901" />
-    <state width="1877" height="150" key="GridCell.Tab.0.left" timestamp="1582393868901">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="150" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582393868901" />
-    <state width="1877" height="150" key="GridCell.Tab.0.right" timestamp="1582393868902">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="150" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582393868902" />
-    <state x="668" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1582379233783">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582379233783" />
+    <state x="758" y="396" key="NewModule_or_Project.wizard/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582397821291" />
   </component>
 </project>

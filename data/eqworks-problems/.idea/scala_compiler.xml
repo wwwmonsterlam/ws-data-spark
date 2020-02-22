@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="eqworks-problems" />
+    <profile name="sbt 1" modules="eqworks-problems,eqworks-problems_2066" />
   </component>
 </project>

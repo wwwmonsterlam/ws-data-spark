@@ -9,7 +9,9 @@ import org.apache.spark.sql.{DataFrame, SparkSession}
 object Cleanup {
   def solution(spark: SparkSession, dataSampleDf: DataFrame): DataFrame = {
 
-    val CLEANED_DATA_PATH: String = "C:\\Users\\wuwei\\Desktop\\IdeaProjects\\eqworks-problems\\data\\DataSampleCleaned"
+//    val CLEANED_DATA_PATH: String = "C:\\Users\\wuwei\\Desktop\\IdeaProjects\\eqworks-problems\\data\\DataSampleCleaned"
+    val TAR_PATH: String = this.getClass.getProtectionDomain.getCodeSource.getLocation.getPath
+    val CLEANED_DATA_PATH: String = TAR_PATH + "/DataSampleCleaned"
 
     println("******************** Problem 1. Cleanup begins ********************")
 

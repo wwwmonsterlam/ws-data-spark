@@ -7,8 +7,12 @@ import problem4b.PipelineDependency
 
 object EqworksProblems {
 
-  val DATA_PATH: String = "C:\\Users\\wuwei\\Desktop\\IdeaProjects\\eqworks-problems\\data\\DataSample.csv"
-  val POIID_PATH: String = "C:\\Users\\wuwei\\Desktop\\IdeaProjects\\eqworks-problems\\data\\POIID.csv"
+  val TAR_PATH: String = this.getClass.getProtectionDomain.getCodeSource.getLocation.getPath
+  val DATA_PATH: String = TAR_PATH + "/DataSample.csv"
+  val POIID_PATH: String = TAR_PATH + "/POIID.csv"
+
+//  val DATA_PATH: String = "C:\\Users\\wuwei\\Desktop\\IdeaProjects\\eqworks-problems\\data\\DataSample.csv"
+//  val POIID_PATH: String = "C:\\Users\\wuwei\\Desktop\\IdeaProjects\\eqworks-problems\\data\\POIID.csv"
 
   def main(args: Array[String]): Unit = {
 

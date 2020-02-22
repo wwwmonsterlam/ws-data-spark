@@ -9,7 +9,9 @@ import org.apache.spark.sql.{DataFrame, SparkSession}
 object Analysis {
   def solution(spark: SparkSession, labeledDf: DataFrame): DataFrame = {
 
-    val POI_STAT_PATH: String = "C:\\Users\\wuwei\\Desktop\\IdeaProjects\\eqworks-problems\\data\\PoiStat"
+//    val POI_STAT_PATH: String = "C:\\Users\\wuwei\\Desktop\\IdeaProjects\\eqworks-problems\\data\\PoiStat"
+    val TAR_PATH: String = this.getClass.getProtectionDomain.getCodeSource.getLocation.getPath
+    val POI_STAT_PATH: String = TAR_PATH + "/PoiStat"
 
     println("******************** Problem 3. Analysis begins ********************")
 
