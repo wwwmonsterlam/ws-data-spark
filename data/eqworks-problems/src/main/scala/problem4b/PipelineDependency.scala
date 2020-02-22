@@ -36,26 +36,26 @@ object PipelineDependency {
     val tasks: Set[Int] = this.getTasks(spark)
 
     // load starting tasks
-    val startingTasks: List[Int] = getStartingTasks(spark, tasks)
+    val startingTasks: List[Int] = this.getStartingTasks(spark, tasks)
 
     // load the goal task
-    val goalTask: Int = getGoalTask(spark, tasks)
+    val goalTask: Int = this.getGoalTask(spark, tasks)
     if(goalTask == -1) {
       println("Terminated: illegal goal task!")
       return List()
     }
 
     // load dependencies
-    val relations: List[(Int, Int)] = getRelations(spark, tasks)
+    val relations: List[(Int, Int)] = this.getRelations(spark, tasks)
 
     // construct the DAG
-    val nodeMap: Map[Int, Node] = constructGraph(tasks, relations)
+    val nodeMap: Map[Int, Node] = this.constructGraph(tasks, relations)
 
     // remove the finished tasks
-    removeFinishedTasks(startingTasks, nodeMap)
+    this.removeFinishedTasks(startingTasks, nodeMap)
 
     // get the schedule of the goal task
-    val schedule: List[Int] = getGoalTaskSchedule(goalTask, nodeMap)
+    val schedule: List[Int] = this.getGoalTaskSchedule(goalTask, nodeMap)
 
     // save the results
     import spark.sqlContext.implicits._
@@ -194,7 +194,7 @@ object PipelineDependency {
       removeSubTree(preTask, nodeMap, removedTaskList)
     }
 
-    removeLeafNode(task, nodeMap)
+    this.removeLeafNode(task, nodeMap)
     if(removedTaskList != null) {removedTaskList.add(task)}
   }
 
@@ -217,14 +217,14 @@ object PipelineDependency {
       val node: Node = nodeMap.apply(task)
       while(node.in != null) {
         val preTask: Int = node.in.tail
-        removeSubTree(preTask, nodeMap, null)
+        this.removeSubTree(preTask, nodeMap, null)
       }
     }
   }
 
   private def getGoalTaskSchedule(goalTask: Int, nodeMap: Map[Int, Node]): List[Int] = {
     val schedule = new util.ArrayList[Int]
-    removeSubTree(goalTask, nodeMap, schedule)
+    this.removeSubTree(goalTask, nodeMap, schedule)
     JavaConverters.asScalaIteratorConverter(schedule.iterator).asScala.toSeq.toList
   }
 }
