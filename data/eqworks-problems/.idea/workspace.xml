@@ -2,44 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca5b0a9e-5565-4dbf-92bd-341c8765a0b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/eqworks-problems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/eqworks-problems.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7b01655a5b6f4a5a40e5$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7b01655a5b6f4a5a40e5.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7b01655a5b6f4a5a40e5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$81d770eff5d50ee7ca28$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$81d770eff5d50ee7ca28.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$81d770eff5d50ee7ca28.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3f2a36e2a7fa296314c$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3f2a36e2a7fa296314c.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3f2a36e2a7fa296314c.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f22bd3b313c2f9788446$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f22bd3b313c2f9788446.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f22bd3b313c2f9788446.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f3ec4db145406fc65226$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f3ec4db145406fc65226.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f3ec4db145406fc65226.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f5908256181b9916fdab$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f5908256181b9916fdab.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$f5908256181b9916fdab.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileOutputs/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/scala/EqworksProblems.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/EqworksProblems.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/problem1/Cleanup.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/problem1/Cleanup.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/problem2/Label.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/problem2/Label.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/problem3/Analysis.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/problem3/Analysis.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/problem4b/PipelineDependency.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/problem4b/PipelineDependency.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.11/update/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/update/update_cache_2.11/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/dependencyPositions/_global/streams/update_cache_2.11/output_dsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.11/output" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +47,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="SbtLocalSettings">
     <option name="availableProjects">
@@ -110,13 +78,15 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/build.sbt" value="2309439695" />
+        <entry key="$PROJECT_DIR$" value="3164313159752" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3145078780" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
       </map>
     </option>
     <option name="projectSyncType">
       <map>
         <entry key="$PROJECT_DIR$/../../../../IdeaProjects/recommendation-system" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
       </map>
     </option>
   </component>
@@ -142,5 +112,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="758" y="396" key="NewModule_or_Project.wizard/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582397821291" />
+    <state x="440" y="98" key="SettingsEditor" timestamp="1582405012209">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="98" key="SettingsEditor/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582405012209" />
   </component>
 </project>

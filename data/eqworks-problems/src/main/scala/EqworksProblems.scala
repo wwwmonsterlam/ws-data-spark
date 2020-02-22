@@ -16,7 +16,7 @@ object EqworksProblems {
 
   def main(args: Array[String]): Unit = {
 
-    val conf = new SparkConf().setAppName("Simple Application").setMaster("local[*]")
+    val conf = new SparkConf().setAppName("solution").setMaster("local[*]")
     val spark = SparkSession.builder().config(conf).getOrCreate()
 
     // load data from DataSample.csv

@@ -1,4 +1,4 @@
 [debug] "not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/C:/Users/wuwei/Desktop/IdeaProjects/eqworks-problems/"), "eqworks-problems")...
-[debug] Done updating ProjectRef(uri("file:/C:/Users/wuwei/Desktop/IdeaProjects/eqworks-problems/"), "eqworks-problems")
+[debug] Updating ProjectRef(uri("file:/C:/Users/wuwei/Desktop/eqworkProject/ws-data-spark/data/eqworks-problems/"), "eqworks-problems")...
+[debug] Done updating ProjectRef(uri("file:/C:/Users/wuwei/Desktop/eqworkProject/ws-data-spark/data/eqworks-problems/"), "eqworks-problems")
 [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
