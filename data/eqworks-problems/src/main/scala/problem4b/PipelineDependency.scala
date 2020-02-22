@@ -4,12 +4,12 @@
   Introduction:
     Data structure: doubly-linked orthogonal list
     Algorithm: depth first search (DFS)
-    Time complexity: O(M), where M is the amount of arcs in the DAG, i.e. the amount of dependencies
+    Time complexity: O(M), where M is the number of arcs in the DAG, i.e. the number of dependencies
     Space complexity: O(M)
 
     Why orthogonal list?
       If adjacency list is used to represent the DAG, the time complexity would be O(M*S), where M is
-      the amount of arcs in the DAG and S is the amount of starting tasks.
+      the number of arcs in the DAG and S is the number of starting tasks.
 */
 
 package problem4b

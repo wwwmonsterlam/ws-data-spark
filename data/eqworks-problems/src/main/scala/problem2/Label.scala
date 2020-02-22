@@ -3,7 +3,7 @@
 
   Introduction:
     Algorithm: brute force
-    Time complexity: Θ(M*N), where M is the amount of POIs and N is the amount of requests
+    Time complexity: Θ(M*N), where M is the amount of POIs and N is the number of requests
 
   Possible future improvement(It's not implemented due to limited time):
     Data structure: K-D tree
