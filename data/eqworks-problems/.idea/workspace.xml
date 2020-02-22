@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="988bc4b1-363b-4d71-9298-44ad7ba1a00e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XuuH6HDyRe26WVxCqz4N108Gt1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EqworksProblems">
+    <configuration name="ALSModeling" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ALSModeling" />
+      <module name="eqworks-problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EqworksProblems" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="EqworksProblems" />
+      <module name="eqworks-problems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EqworksProblems" />
+        <item itemvalue="Application.ALSModeling" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="eqworks-problems" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="eqworks-problems [file:/C:/Users/wuwei/Desktop/IdeaProjects/eqworks-problems/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="eqworks-problems-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3163817066464" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2309439695" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../recommendation-system" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="988bc4b1-363b-4d71-9298-44ad7ba1a00e" name="Default Changelist" comment="" />
+      <created>1581908209141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581908209141</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="279" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582336220106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="279" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582336220106" />
+    <state x="690" y="305" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582336187671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="305" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582336187671" />
+    <state x="761" y="390" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582336191836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="390" width="398" height="266" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582336191836" />
+    <state width="1877" height="150" key="GridCell.Tab.0.bottom" timestamp="1582393868902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582393868902" />
+    <state width="1877" height="150" key="GridCell.Tab.0.center" timestamp="1582393868901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582393868901" />
+    <state width="1877" height="150" key="GridCell.Tab.0.left" timestamp="1582393868901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582393868901" />
+    <state width="1877" height="150" key="GridCell.Tab.0.right" timestamp="1582393868902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582393868902" />
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1582379233783">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1080.-527.1080.1880@0.0.1920.1040" timestamp="1582379233783" />
+  </component>
+</project>
