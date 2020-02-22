@@ -41,23 +41,23 @@ Although this project has already been built, you can follow the following steps
 
 ## Short comment on `Problem 2. Label`
 
-  Introduction:
-    * Algorithm: brute force
-    * Time complexity: Θ(M*N), where M is the amount of POIs and N is the number of requests
+  Introduction:  
+    * Algorithm: brute force  
+    * Time complexity: Θ(M*N), where M is the amount of POIs and N is the number of requests  
 
-  Possible future improvement(It's not implemented due to limited time):
-    * Data structure: K-D tree
-    * Algorithm: nearest neighbour search
-    * Time complexity: O(M\*N) for the worst case, O(M\*lgN) for the average
+  Possible future improvement(It's not implemented due to limited time):  
+    * Data structure: K-D tree  
+    * Algorithm: nearest neighbour search  
+    * Time complexity: O(M\*N) for the worst case, O(M\*lgN) for the average  
 
-## Short comment on `4b. Pipeline Dependency`
+## Short comment on `Problem 4b. Pipeline Dependency`
 
-  Introduction:
-    * Data structure: doubly-linked orthogonal list
-    * Algorithm: depth first search (DFS)
-    * Time complexity: O(M), where M is the number of arcs in the DAG, i.e. the number of dependencies
-    * Space complexity: O(M)
+  Introduction:  
+    * Data structure: doubly-linked orthogonal list  
+    * Algorithm: depth first search (DFS)  
+    * Time complexity: O(M), where M is the number of arcs in the DAG, i.e. the number of dependencies  
+    * Space complexity: O(M)  
 
-  Why orthogonal list?
+  Why orthogonal list?  
     * If adjacency list is used to represent the DAG, the time complexity would be O(M*S), where M is
       the number of arcs in the DAG and S is the number of starting tasks.
