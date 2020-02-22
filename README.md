@@ -34,8 +34,8 @@ Although this project has already been built, you can follow the following steps
 2. Under the project directory `data/eqworks-problems`, run SBT command:  
     `$sbt package`
 3. When the build is finished, move the `jar` file to the `data` directory:
-    '$cd ..'  
-    '$mv eqworks-problems/target/scala-2.11/eqworks-problems_2.11-0.1.jar ./'
+    `$cd ..`  
+    `$mv eqworks-problems/target/scala-2.11/eqworks-problems_2.11-0.1.jar ./`
 4. You can run the `jar` file by running (the output would be overwritten):  
     `spark-submit --class "EqworksProblems" /tmp/data/eqworks-problems_2.11-0.1.jar`
 
